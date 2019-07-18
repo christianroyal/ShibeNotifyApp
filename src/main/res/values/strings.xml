@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShibeIntentService</string>
+
+    <string name="charging_reminder_notification_title">Successfully Uploaded Images - Whats your favorite?</string>
+    <string name="charging_reminder_notification_body">Lets look for some more Shibes.</string>
+    <string name="main_notification_channel">Reminder Notifications</string>
+</resources>
