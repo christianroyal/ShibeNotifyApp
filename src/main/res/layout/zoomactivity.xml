@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:backgroundTint="@color/colorAccent"
-    tools:context="com.example.jsonpractice.ZoomActivity">
+    tools:context="com.example.shibeintentservice.ZoomActivity">
 
 <ImageView
     android:id="@+id/container"

@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements ShibeAdapter.OnSh
         shibeAdapter = new ShibeAdapter(strings, MainActivity.this);
         recyclerView.setAdapter(shibeAdapter);
 
+
         Log.d(TAG, "loadRecyclerview: Loading RV");
 
 
@@ -92,8 +93,7 @@ public class MainActivity extends AppCompatActivity implements ShibeAdapter.OnSh
                 break;
         }
     }public void testNotification(View view){
-        NotificationUtils.shibesUploaded(this);
-    }
+        NotificationUtils.shibesUploaded(this); }
 }
 
 
